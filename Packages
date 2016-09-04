@@ -4,7 +4,7 @@ Architecture: iphoneos-arm
 Maintainer: Zxlfie <zxlfie@gmail.com>
 Depends: com.anemonetheming.anemone
 Filename: debs/com.zxlfie.xeris.deb
-Size: 225180
+Size: 225176
 MD5sum: cb666f335edf65e3aa40991a9cd02d53
 SHA1: 9ad3246e9a929c8df9365ef35db70222d82e1eaf
 SHA256: 52df8cc47ce52715418a80fbc071d23b0502d597df0af089fd3e548c09ff493c
