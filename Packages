@@ -1,9 +1,9 @@
 Package: com.zxlfie.xeris
-Version: 0.1.2
+Version: 0.1.3beta
 Architecture: iphoneos-arm
 Maintainer: Zxlfie <zxlfie@gmail.com>
 Depends: com.anemonetheming.anemone
-Filename: debs/com.zxlfie.xeris.deb
+Filename: debs/Xeris.deb
 Size: 225176
 MD5sum: cb666f335edf65e3aa40991a9cd02d53
 SHA1: 9ad3246e9a929c8df9365ef35db70222d82e1eaf
