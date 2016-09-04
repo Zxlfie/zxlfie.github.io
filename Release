@@ -1,0 +1,9 @@
+Origin: Zxlfie's Repo
+Label: Zxlfie's Repo
+Suite: stable
+Version: 1.0
+Codename: Lemon
+Architectures: iphoneos-arm
+Components: main
+Description: Zxlfie's Repo
+MD5Sum:

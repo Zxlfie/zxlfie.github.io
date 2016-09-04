@@ -1,0 +1,29 @@
+Package: com.zxlfie.xeris
+Version: 0.1.2beta
+Architecture: iphoneos-arm
+Maintainer: Zxlfie <zxlfie@gmail.com>
+Depends: com.anemonetheming.anemone
+Filename: debs/com.zxlfie.xeris.deb
+Size: 225176
+MD5sum: e9b3c5f93de67ca5838e0fd60bc2736c
+SHA1: 01dd17dab6a44de14b68480c1221b8d836ed1a32
+SHA256: ebf543997edebfce38a5a00beb2be20c69d201155a9aa09764259a573af00a9c
+Section: Themes
+Description: Xeris, a theme created by Cali and Zxlfie.
+Author: Zxlfie <zxlfie@gmail.com>
+Name: Xeris
+
+Package: com.zxlfie.harambaewhite
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Zxlfie <zxlfie@gmail.com>
+Depends: com.anemonetheming.anemone
+Filename: debs/com.zxlfie.harambaewhite.deb
+Size: 159432
+MD5sum: a939b6b29f260a45abf498a03338be92
+SHA1: 0b8d75982a31304f94a43aeeb7252a64a638cee4
+SHA256: fdb7068f678eb6c31cd50994511a72e816f195586d04ca364cd1c08f30fffdc5
+Section: Themes
+Description: HaramBae White, the HaramBae respring logo, which doesn't invert on space grey iOS devices.
+Author: Zxlfie <zxlfie@gmail.com>
+Name: HaramBae White
