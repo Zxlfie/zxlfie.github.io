@@ -1,5 +1,5 @@
 Package: com.zxlfie.xeris
-Version: 0.1.2beta
+Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Zxlfie <zxlfie@gmail.com>
 Depends: com.anemonetheming.anemone
