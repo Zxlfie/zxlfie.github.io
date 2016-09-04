@@ -1,13 +1,13 @@
 Package: com.zxlfie.xeris
-Version: 1.0
+Version: 0.1.2
 Architecture: iphoneos-arm
 Maintainer: Zxlfie <zxlfie@gmail.com>
 Depends: com.anemonetheming.anemone
 Filename: debs/com.zxlfie.xeris.deb
 Size: 225180
-MD5sum: 489f11f621a7483d294ffa10c8167540
-SHA1: 2b1086f987121ad0c0d619b778c3f24536bfdaf4
-SHA256: d6bab4be0336bdd0dac2610de005cac35218ad7c1a8b2ac02ba6d2d288cf5658
+MD5sum: cb666f335edf65e3aa40991a9cd02d53
+SHA1: 9ad3246e9a929c8df9365ef35db70222d82e1eaf
+SHA256: 52df8cc47ce52715418a80fbc071d23b0502d597df0af089fd3e548c09ff493c
 Section: Themes
 Description: Xeris, a theme created by Cali and Zxlfie.
 Author: Zxlfie <zxlfie@gmail.com>
