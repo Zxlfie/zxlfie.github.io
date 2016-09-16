@@ -1,14 +1,14 @@
-Package: com.zxlfie.xeris
-Version: 0.1.3beta
+Package: com.zxlfie.bootex
+Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Zxlfie <zxlfie@gmail.com>
 Depends: com.anemonetheming.anemone
-Filename: debs/Xeris.deb
-Size: 559608
-MD5sum: a31df2fe031e5ba96918621202be1d76
-SHA1: cb0cc0875e36eff8eb99374f7aac232f4a4576b0
-SHA256: be508d20502be43ceaa8398766eb7d9540ecefec5d86931d4e3f023fca848b24
+Filename: debs/BootEx.deb
+Size: 159744
+MD5sum: c3e63c485449752a563a1e2b839c4f3d
+SHA1: 22bb20f4b62508185485e84aea4b86971aaf8045
+SHA256: e73d91f2b8940e562b885446e34f03ec431666e742794fc54df42d864df68d76
 Section: Themes
-Description: Xeris, a theme created by Cali and Zxlfie.
+Description: BootEx, an assortement of curiously gay respring logos.
 Author: Zxlfie <zxlfie@gmail.com>
-Name: Xeris
+Name: BootEx
