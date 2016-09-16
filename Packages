@@ -1,15 +1,15 @@
 Package: com.zxlfie.bootex
 Version: 1.0
 Architecture: iphoneos-arm
-Author: Zxlfie <zxlfie@gmail.com>
 Maintainer: Zxlfie <zxlfie@gmail.com>
-Depends: com.anemonetheming.anemone
-Filename: debs/BootEx.deb
+Filename: ./debs/BootEx.deb
 Size: 159668
 MD5sum: c3e63c485449752a563a1e2b839c4f3d
 SHA1: 22bb20f4b62508185485e84aea4b86971aaf8045
 SHA256: e73d91f2b8940e562b885446e34f03ec431666e742794fc54df42d864df68d76
 Section: Themes
+Homepage: http://zxlfie.github.io
 Description: BootEx, an assortement of curiously gay respring logos.
 Author: Zxlfie <zxlfie@gmail.com>
 Name: BootEx
+
