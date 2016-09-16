@@ -4,9 +4,9 @@ Architecture: iphoneos-arm
 Maintainer: Zxlfie <zxlfie@gmail.com>
 Filename: ./debs/com.zxlfie.bootex_1.0_iphoneos-arm.deb
 Size: 159798
-MD5sum: 521cf019d64ec1a15682f1a3ece09b0c
-SHA1: 2f256b9913d1513a40ce31f43db3fe068d5a87ad
-SHA256: 5a55e7efc881032dd29e526839191e6af6817122490392871db3cca4ff7f5d11
+MD5sum: 8ff8da0944d26c1013e32f7f429acb9d
+SHA1: 7bfd053da9175b7b80a5e73615fadb77e3cf5674
+SHA256: 4bb9b4476d9bf8ac19a3aa7d00a9f2393f4357198abb2345ddea4ae5f21eeaad
 Section: Themes
 Homepage: http://zxlfie.github.io
 Description: BootEx, an assortement of curiously gay respring logos.
