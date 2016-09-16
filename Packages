@@ -1,6 +1,7 @@
 Package: com.zxlfie.bootex
 Version: 1.0
 Architecture: iphoneos-arm
+Author: Zxlfie <zxlfie@gmail.com>
 Maintainer: Zxlfie <zxlfie@gmail.com>
 Depends: com.anemonetheming.anemone
 Filename: debs/BootEx.deb
