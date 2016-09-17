@@ -1,12 +1,12 @@
 Package: com.zxlfie.bootex
-Version: 1.0.1
+Version: 1.0.2
 Architecture: iphoneos-arm
 Maintainer: Zxlfie <zxlfie@gmail.com>
-Filename: ./debs/com.zxlfie.bootex_1.0.1_iphoneos-arm.deb
-Size: 172458
-MD5sum: 104dc4ffc61dde1733de78ffab6bde2f
-SHA1: 0a20a111a3254117275ea2ee6b476f3b44605cc3
-SHA256: f82907744056715ca533ed28fbc0a465be8da0912bc4ef79d6bc306fe20b3292
+Filename: ./debs/com.zxlfie.bootex_1.0.2_iphoneos-arm.deb
+Size: 494832
+MD5sum: bd39fc66338db1b8d1c9985737b87589
+SHA1: 7541cac0a91ecf9cf177db3a1d3ba788bc9d1cc4
+SHA256: 813c81a818ae27a8c1c29cdbfe088c9d59646dae3772bec85976971ded9b721e
 Section: Themes
 Homepage: http://zxlfie.github.io
 Description: BootEx, an assortement of curiously gay respring logos.
