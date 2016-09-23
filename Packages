@@ -10,7 +10,7 @@ SHA256: f32d72a7d88285c5406a1e144a447223ba1fb2f620c86e048456d023e92e1182
 Section: Themes
 Description: BootEx, an assortement of curiously gay respring logos.
 Author: Zxlfie <zxlfie@gmail.com>
-Depiction: ./depiction/com.zxlfie.bootex.php
+Depiction: http://zxlfie.github.io/depictions/com.zxlfie.bootex.php
 Name: BootEx
 Sponsor: Zxlfie <http://zxlfie.github.io>
 
