@@ -3,13 +3,14 @@ Version: 1.0.5
 Architecture: iphoneos-arm
 Maintainer: Zxlfie <zxlfie@gmail.com>
 Filename: ./debs/com.zxlfie.bootex_1.0.5_iphoneos-arm.deb
-Size: 494170
-MD5sum: 169620e297a6df36e360ca8de720aed4
-SHA1: fb201bc7d4ee8d4b18aea803c9d9f23a1f06c54a
-SHA256: a5a1045fa22b72e31f7baea8f90e9d7190b0ee063deed15adf5b67c68d852bb2
+Size: 494192
+MD5sum: 1719c1b9c7a9a4fb7a9925dbf0f17277
+SHA1: 2714bfe340f46e787d2c06b1cf7654ac49800890
+SHA256: 411f8dc2ea1272cec96e1b9cd02d9fea9cc660ba091ca195c6899166735b93e3
 Section: Themes
 Description: BootEx, an assortement of curiously gay respring logos.
 Author: Zxlfie <zxlfie@gmail.com>
+Depiction: http://zxlfie.bitbucket.org/com.zxlfie.bootex.php
 Name: BootEx
 Sponsor: Zxlfie <http://zxlfie.github.io>
 
@@ -19,9 +20,9 @@ Architecture: iphoneos-arm
 Maintainer: Zxlfie <zxlfie@gmail.com>
 Filename: ./debs/com.zxlfie.ovorsl_1.0.3_iphoneos-arm.deb
 Size: 115626
-MD5sum: e6c0d906926a2b820ceb02e21166295a
-SHA1: 43252d967c283bccd093a3e9b693fb04baf10f8b
-SHA256: aa92b51574a08ad651f8513fe76e480b705d443e2f41ba38b240f57b26d165cd
+MD5sum: 34c4e5562109b5c830f6812eca17c73d
+SHA1: 2597e65319456eb3fe20dc3607a4ce3db467a693
+SHA256: ac86ec6840cc8be8470d2178795b4a9a5c3689c35a7c063fd5a97077089bd044
 Section: Themes
 Description: A respring logo created by Reddit user /u/Pmurcreditcardinfo which resembles the splashscreen for the Ovo app.
 Author: Pmurcreditcardinfo
